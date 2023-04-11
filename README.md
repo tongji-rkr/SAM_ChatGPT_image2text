@@ -1,0 +1,2 @@
+# SAM_ChatGPT_image2text
+通过sam将图像分割并分类，根据得到的分类信息通过chatgpt对图像信息进行猜测式补全
